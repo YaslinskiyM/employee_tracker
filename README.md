@@ -53,7 +53,7 @@ Mock-Up
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/107730204/236370669-3f1a94d7-ead2-452c-8e51-0235a89c117a.png)
 ## Link
-
+https://drive.google.com/file/d/1UsbumB0ItoHAR5RiHrX2LQGCfVH4AEdA/view
 
 ## License
 MIT 
