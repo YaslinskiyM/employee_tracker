@@ -58,6 +58,11 @@ Mock-Up
 ## License
 MIT 
 
+## Contact
+Maria Yaslinskiy
+YaslinskiyM GitHub
+
+
 
 
 
